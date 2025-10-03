@@ -4,7 +4,7 @@ The official website and landing page for the DeyWeaver Foundation, a nonprofit 
 
 ## 🌐 Live Website
 
-Visit us at: [https://deyweaver.github.io/Page/](https://deyweaver.github.io/Page/)
+Visit us at: [npo.deyweaver.live](https://npo.deyweaver.live)
 
 ## 📖 About
 

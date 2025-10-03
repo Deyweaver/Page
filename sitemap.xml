@@ -6,48 +6,48 @@
 
     <!-- Homepage -->
     <url>
-        <loc>https://deyweaver.github.io/Page/</loc>
-        <lastmod>2025-10-03</lastmod>
+        <loc>https://npo.deyweaver.live</loc>
+        <lastmod>2025-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <!-- About Section -->
     <url>
-        <loc>https://deyweaver.github.io/Page/#about</loc>
-        <lastmod>2025-10-03</lastmod>
+        <loc>https://npo.deyweaver.live#about</loc>
+        <lastmod>2025-10-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- Projects Section -->
     <url>
-        <loc>https://deyweaver.github.io/Page/#projects</loc>
-        <lastmod>2025-10-03</lastmod>
+        <loc>https://npo.deyweaver.live#projects</loc>
+        <lastmod>2025-10-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 
     <!-- Sponsors Section -->
     <url>
-        <loc>https://deyweaver.github.io/Page/#sponsors</loc>
-        <lastmod>2025-10-03</lastmod>
+        <loc>https://npo.deyweaver.live#sponsors</loc>
+        <lastmod>2025-10-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <!-- Join Section -->
     <url>
-        <loc>https://deyweaver.github.io/Page/#join</loc>
-        <lastmod>2025-10-03</lastmod>
+        <loc>https://npo.deyweaver.live#join</loc>
+        <lastmod>2025-10-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <!-- Contact Section -->
     <url>
-        <loc>https://deyweaver.github.io/Page/#contact</loc>
-        <lastmod>2025-10-03</lastmod>
+        <loc>https://npo.deyweaver.live#contact</loc>
+        <lastmod>2025-10-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
